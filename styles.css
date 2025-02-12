@@ -1,0 +1,12 @@
+html{
+    background-color: brown;
+}
+
+p, h3, div{
+    color: white;
+}
+
+img{
+    display: block;
+    margin: 0 auto; 
+}
